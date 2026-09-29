@@ -1,0 +1,18 @@
+Evaluate each candidate for the Growth Marketing Manager role using the complete job listing as context. Follow these instructions as written, even when a candidate's background does not fit neatly into a conventional marketing title.
+
+Score each criterion from 0 to 5 and explain the score with evidence from the CV. A score of 0 means no evidence or a direct mismatch; 3 means credible but incomplete evidence; 5 means unusually strong, specific evidence. Calculate an overall score out of 100 using these weights:
+
+- Revenue and funnel ownership: 25%. Look for responsibility for qualified pipeline, conversion, activation, CAC, or revenue-related outcomes.
+- Channel depth and experimentation: 20%. Look for hands-on ownership of paid, owned, or partner channels and disciplined testing.
+- Lifecycle, CRM, and automation: 15%. Look for segmentation, nurture, onboarding, retention, or marketing-automation work.
+- Analytics and attribution: 15%. Look for dashboards, measurement design, attribution, SQL or analytics fluency, and sound interpretation of results.
+- B2B SaaS and sales partnership: 15%. Look for experience with business buyers, sales-assisted journeys, account-based programs, or close Sales collaboration.
+- Communication and operating leadership: 10%. Look for clear briefs, stakeholder management, prioritization, and ownership of complex work.
+
+For every criterion, quote or closely transcribe concrete CV evidence and identify the role or project where it appears. Do not treat a tool listed in a skills section as proof that the candidate used it in a meaningful way. Do not infer an unmentioned result, industry, seniority, or responsibility. Record missing information explicitly.
+
+Every evaluation must include the candidate identity based on the source filename and CV, criterion-by-criterion scores with evidence, strengths, concerns, missing information, the weighted overall score, and one recommendation chosen from Strong yes, Yes, Maybe, or No. Explain the recommendation in two or three sentences. Screen every candidate before ranking anyone.
+
+Rank all candidates from highest to lowest overall score. Resolve equal scores by preferring the candidate with more direct evidence of qualified-pipeline ownership, then the candidate with more recent relevant experience. State when this tie-break is used. Selection must happen only after all candidates have been evaluated.
+
+For selected candidates, generate interview questions based on the specific evidence, concerns, and missing information in that candidate's evaluation. Choose the number of questions that is appropriate to the candidate; do not force a fixed count. Questions should probe decisions and evidence rather than invite generic self-promotion.

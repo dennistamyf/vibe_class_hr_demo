@@ -1,0 +1,18 @@
+Evaluate each candidate for the Brand Marketing Manager role using the complete job listing as context. Follow these instructions as written and distinguish documented ownership from work that is only described as support or collaboration.
+
+Score each criterion from 0 to 5 and explain the score with evidence from the CV. A score of 0 means no evidence or a direct mismatch; 3 means credible but incomplete evidence; 5 means unusually strong, specific evidence. Calculate an overall score out of 100 using these weights:
+
+- Brand strategy and positioning: 25%. Look for positioning, messaging architecture, audience definition, brand platforms, or meaningful rebrands.
+- Integrated campaign leadership: 20%. Look for end-to-end campaign ownership across multiple channels and stages of work.
+- Customer insight and market understanding: 15%. Look for research, interviews, social listening, segmentation, competitive work, or insight-led decisions.
+- Creative collaboration and storytelling: 15%. Look for strong briefs, creative direction, editorial judgment, and partnership with designers or agencies.
+- Measurement and commercial judgment: 15%. Look for brand or campaign measurement, learning agendas, budgets, conversion, revenue, or other business outcomes.
+- Cross-functional communication and delivery: 10%. Look for stakeholder alignment, agency management, presentations, planning, and reliable execution.
+
+For every criterion, quote or closely transcribe concrete CV evidence and identify the role, campaign, or project where it appears. Do not assume that a brand title means the candidate owned strategy. Do not infer an unmentioned result, category, audience, budget, or level of responsibility. Record missing information explicitly.
+
+Every evaluation must include the candidate identity based on the source filename and CV, criterion-by-criterion scores with evidence, strengths, concerns, missing information, the weighted overall score, and one recommendation chosen from Strong yes, Yes, Maybe, or No. Explain the recommendation in two or three sentences. Screen every candidate before ranking anyone.
+
+Rank all candidates from highest to lowest overall score. Resolve equal scores by preferring the candidate with more direct evidence of positioning or campaign-platform ownership, then the candidate with more recent relevant experience. State when this tie-break is used. Selection must happen only after all candidates have been evaluated.
+
+For selected candidates, generate interview questions based on the specific evidence, concerns, and missing information in that candidate's evaluation. Choose the number of questions that is appropriate to the candidate; do not force a fixed count. Questions should probe decisions, trade-offs, and evidence rather than invite generic self-promotion.

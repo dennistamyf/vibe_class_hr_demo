@@ -1,0 +1,4 @@
+streamlit>=1.40,<2
+pypdf>=5,<7
+pydantic>=2.8,<3
+certifi>=2024.8.30
